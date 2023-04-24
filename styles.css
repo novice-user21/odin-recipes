@@ -1,0 +1,23 @@
+* {
+    background-color: #ff5540;
+    font-weight: 500;
+}
+
+h1 , h2 , h3 {
+    color: #ff5540;
+    text-align: center;
+  
+    background-color: black;
+    
+     font-family: "Brush Script MT";
+}
+
+#img {
+    hight: auto;
+    max-width: 100%;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
